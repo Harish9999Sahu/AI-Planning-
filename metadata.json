@@ -1,0 +1,7 @@
+{
+  "name": "GeoSpatial AI NRM Planner",
+  "description": "Advanced AI-driven watershed planning and NRM work identification system integrating GIS data and Gemini AI reasoning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
